@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_111">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="oracle.eclipse.tools.glassfish.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MovieBusinessLayer"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MovieAplicationVaribale"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MovieClassLayer"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MovieDataLayer"/>
+	<classpathentry kind="lib" path="C:/Everything/Capita/NovusMovieProject/MovieBusinessLayer1.jar"/>
+	<classpathentry kind="lib" path="C:/Everything/Capita/NovusMovieProject/MovieClassLayer.jar"/>
+	<classpathentry kind="lib" path="C:/Everything/Capita/NovusMovieProject/MovieDataLayer1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
